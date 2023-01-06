@@ -32,7 +32,7 @@ Note:if you are in ubuntu specify main folder location on line 8
   
 ## Specifications
 
-- Ubuntu support
+- Ubuntu support (change on line 8 required)
 - Windows support
 - Compatibility with different inputs (by inserting images into testimages)
 - Compatibility with different resolutions
