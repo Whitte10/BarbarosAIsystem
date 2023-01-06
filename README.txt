@@ -8,7 +8,7 @@ This algorithm is an algorithm that detects obstacles via yolov5 in line with th
 download the project
 
 ```bash
-  https://drive.google.com/file/d/1Cd7u6rkbag7kJHoYrEJV_bnbtXlQWUnZ/view?usp=sharing
+  https://github.com/Whitte10/BarbarosAIsystem
 
 go to project path
 
